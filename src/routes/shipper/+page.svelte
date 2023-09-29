@@ -9,3 +9,4 @@
 
 <h1>Shipper</h1>
 <button on:click={() => checkforUpdate()}>cHECK FOR UPDATE</button>
+<h1>{$updated}</h1>
