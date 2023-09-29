@@ -16,5 +16,5 @@
 <h1>Shipper</h1>
 <button on:click={() => checkforUpdate()}>Check for updates</button>
 <button on:click={() => reloadApp()}>Update</button>
-<h1>Du har en update klar?</h1>
+<h1>Du har en update klar</h1>
 <h1>{$updated}</h1>
