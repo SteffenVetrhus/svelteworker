@@ -8,4 +8,4 @@
 </script>
 
 <h1>Shipper</h1>
-<button on:click={() => checkforUpdate()}>Btn</button>
+<button on:click={() => checkforUpdate()}>cHECK FOR UPDATE</button>
