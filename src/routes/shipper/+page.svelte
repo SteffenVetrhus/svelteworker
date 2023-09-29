@@ -7,5 +7,5 @@
   };
 </script>
 
-<h1>Shippsser</h1>
+<h1>Shipper</h1>
 <button on:click={() => checkforUpdate()}>Btn</button>
