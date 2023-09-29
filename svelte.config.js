@@ -8,7 +8,7 @@ const config = {
     // See https://kit.svelte.dev/docs/adapters for more information about adapters.
     adapter: adapter(),
     version: {
-      pollInterval: 1000,
+      pollInterval: 5000,
     },
   },
 };
